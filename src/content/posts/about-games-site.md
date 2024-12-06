@@ -36,5 +36,5 @@ hopefully thats all (again)
 making final adjustments to this file later on today but should get the word acrooss
 
 ---
-[join the furry flare](https://discord.gg/hv7aPV7uzP) | [see the main site](https://www.mcalec.dev/)
-[contact me on signal]()
+[join the furry flare](https://discord.gg/hv7aPV7uzP) | [see the main site](https://www.mcalec.dev/)  
+[contact me on signal](https://signal.me/#eu/TTBUATVr4QkAaGKvJVhMf2P225qJbxr44FIzkl19YWBwApJH2eNJYbIt2YCE9Gii)
