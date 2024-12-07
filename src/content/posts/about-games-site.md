@@ -1,6 +1,6 @@
 ---
 title: Games Site Update
-published: 2024-12-05
+published: 2024-12-06
 description: "awd"
 image: ""
 tags: [updates,games-site,web-dev]
